@@ -486,7 +486,8 @@ h6,
   font-size: 17px;
 }
 #header1-l .mbr-section-title {
-  color: #b8312f;
+  color: #ffffff;
+  text-align: center;
 }
 
 #menu-1 .hide-buttons .nav-btn {
