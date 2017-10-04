@@ -485,10 +485,6 @@ h6,
   color: #ff0202;
   font-size: 17px;
 }
-#header1-l .mbr-section-title {
-  color: #ffffff;
-  text-align: center;
-}
 
 #menu-1 .hide-buttons .nav-btn {
   display: none !important;
@@ -561,13 +557,6 @@ h6,
 #footer1-2 P {
   color: #ff0202;
   font-size: 17px;
-}
-#contacts2-j P {
-  text-align: left;
-  color: #2969b0;
-}
-#contacts2-j STRONG {
-  color: #f28281;
 }
 
 #menu-4 .hide-buttons .nav-btn {
@@ -785,79 +774,6 @@ h6,
   background-color: #000000;
 }
 #footer1-b P {
-  color: #ff0202;
-  font-size: 17px;
-}
-
-#menu-d .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-d .navbar-caption {
-  color: #ffffff;
-}
-#menu-d .navbar-toggler {
-  color: #000000;
-}
-#menu-d .link,
-#menu-d .dropdown-item {
-  color: #000000;
-  font-family: 'Roboto', sans-serif;
-}
-#menu-d .link {
-  font-size: 1.4rem;
-}
-#menu-d .dropdown-item,
-#menu-d .nav-dropdown-sm .link {
-  font-size: 1.516rem;
-}
-#menu-d .link:hover,
-#menu-d .dropdown-item:hover,
-#menu-d .link:focus,
-#menu-d .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-d .link[aria-expanded="true"],
-#menu-d .dropdown-menu {
-  background: #6fc5f3;
-}
-#menu-d .nav-dropdown-sm .link:focus,
-#menu-d .nav-dropdown-sm .link:hover,
-#menu-d .nav-dropdown-sm .dropdown-item:focus,
-#menu-d .nav-dropdown-sm .dropdown-item:hover {
-  background: #90d2f6!important;
-}
-#menu-d .navbar,
-#menu-d .nav-dropdown-sm,
-#menu-d .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-d .nav-dropdown-sm .dropdown-menu {
-  background: #9ed8f7;
-}
-#menu-d .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#menu-d .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-d .bg-color.transparent.opened .link:hover,
-#menu-d .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-d .link[aria-expanded="true"],
-#menu-d .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#menu-d.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-d .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-d .close-icon::before,
-#menu-d .close-icon::after {
-  background-color: #000000;
-}
-#footer1-e P {
   color: #ff0202;
   font-size: 17px;
 }
